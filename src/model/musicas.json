@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "titulo": "I Put a Spell on You",
+        "artista": "IZA",
+        "duração":"3:40"
+    },
+    {
+        "id": 2,
+        "titulo": "My Power",
+        "artista": "Nija, Beyonce, Busiswa,Yemi Alade, Tierra Whack, Moonchild Sanelly, DJ Lag",
+        "duração": "4:20"    
+    },
+    {
+        "id": 3,
+        "titulo": "Feeling Good",
+        "artista": "Nina Simone",
+        "duração":"2:54"
+    },
+    {
+        "id": 4,
+        "titulo": "Best Part",
+        "artista": "Daniel Caesar, H.E.R.",
+        "duração":"3:30"
+    },
+    {
+        "id": 5,
+        "titulo": "Te Faço um Cafuné",
+        "artista": "Mariana Aydar",
+        "duração":"3:47"
+    },
+    {
+        "id": 6,
+        "titulo": "Escuta",
+        "artista": "Malía",
+        "duração":"2:47"
+    },
+    {
+        "id": 7,
+        "titulo": "Banho de Folhas",
+        "artista": "Luedji Luna",
+        "duração":"6:29"
+    },
+    {
+        "id": 8,
+        "titulo": "Asas",
+        "artista": "Luedji Luna",
+        "duração":"4:35"
+    },
+    {
+        "id": 9,
+        "titulo": "Dois Grudados",
+        "artista": "Carlinhos Brown",
+        "duração":"4:29"
+    },
+    {
+        "id": 10,
+        "titulo": "Didn't Cha Know",
+        "artista": "Erykah Badu",
+        "duração":"3:59"
+    },
+    {
+        "id": 11,
+        "titulo": "A mulher do Fim do Mundo",
+        "artista": "Elza Soares",
+        "duração":"4:38"
+    },
+    {
+        "id": 12,
+        "titulo": "Another Brick in the Wall, Pt.2",
+        "artista": "Pink Floyd",
+        "duração":"3:58"
+    },
+    {
+        "id": 13,
+        "titulo": "Românticos",
+        "artista": "Vander Lee",
+        "duração":"3:36"
+    },
+    {
+        "id": 14,
+        "titulo": "Alegria",
+        "artista": "Mahmundi",
+        "duração":"3:28"
+    },
+    {
+        "id": 15,
+        "titulo": "Planos",
+        "artista": "BK, Luccas Carlos, Arit",
+        "duração":"3:39"
+    },
+    {
+        "id": 16,
+        "titulo": "Depois de ter Você -Ao Vivo",
+        "artista": "Maria Bethânia, Adriana Calcanhotto",
+        "duração":"4:00"
+    },
+    {
+        "id": 17,
+        "titulo": "Só Você Me Fez Sentir",
+        "artista": "Bia Ferreira",
+        "duração":"4:13"
+    },
+    {
+        "id": 18,
+        "titulo": "Banho de Sol",
+        "artista": "Baco Exu do Blues",
+        "duração":"3:36"
+    },
+    {
+        "id": 19,
+        "titulo": "Triste Louca ou Má",
+        "artista": "Francisco, el Hombre, Salma Jô, Labaq, Helena Maria, Renata Éssis",
+        "duração":"4:26"
+    },
+    {
+        "id": 20,
+        "titulo": "Olho de Tigre",
+        "artista": "Djonga, Pineapple StormTv",
+        "duração":"3:58"
+    }
+    
+]

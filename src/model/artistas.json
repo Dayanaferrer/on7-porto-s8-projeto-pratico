@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "artista": "IZA"
+    },
+    {
+        "id": 2,
+        "artista": "Beyonce"
+    },
+    {
+        "id": 3,
+        "artista": "Nina Simone"
+    },
+    {
+        "id": 4,
+        "artista": "Daniel Caesar, H.E.R."
+    },
+    {
+        "id": 5,
+        "artista": "Mariana Aydar"
+    },
+    {
+        "id": 6,
+        "artista": "Malía"
+    },
+    {
+        "id": 9,
+        "artista": "Carlinhos Brown"
+    },
+    {
+        "id": 7,
+        "artista": "Luedji Luna" 
+    },
+    {
+        "id": 10,
+        "artista": "Erykah Badu"
+    },
+    {
+        "id": 11,
+        "artista": "Elza Soares"
+    },
+    {
+        "id": 12,
+        "artista": "Pink Floyd"
+    },
+    {
+        "id": 13,
+        "artista": "Vander Lee"
+    },
+    {
+        "id": 14,
+        "artista": "Mahmundi"
+    },
+    {
+        "id": 15,
+        "artista": "BK, Luccas Carlos, Arit"
+    },
+    {
+        "id": 16,
+        "artista": "Maria Bethânia, Adriana Calcanhotto"
+    },
+    {
+        "id": 17,
+        "artista":  "Bia Ferreira"
+    },
+    {
+        "id": 18,
+        "artista":  "Francisco, el Hombre, Salma Jô, Labaq, Helena Maria, Renata Éssis"
+    },
+    {
+        "id": 19,
+        "artista":  "Djonga, Pineapple StormTv"
+    }
+]
